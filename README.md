@@ -1,9 +1,3 @@
-# DQ-NAS: Differentiable Quality-of-Service-Aware Neural Architecture Search
-
-This repository contains the source code for the paper "DQ-NAS: Differentiable Quality-of-Service-Aware Neural Architecture Search for Communication Networks". 
-
-*(Please update the paper title and add a brief introduction to your work here.)*
-
 ## Requirements
 
 To install the necessary dependencies, please run the following command:
